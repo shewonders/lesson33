@@ -68,6 +68,7 @@ mydivision()
 #             break
 #         else:
 #             s = s + int(el)
+#             print (s)
 #     print(f"The sum of all yor numbers is {s}")
 # summa()
 
